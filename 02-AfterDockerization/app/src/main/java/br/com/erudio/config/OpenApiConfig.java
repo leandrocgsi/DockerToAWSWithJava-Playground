@@ -14,7 +14,7 @@ public class OpenApiConfig {
 	OpenAPI customOpenAPI() {
 		return new OpenAPI()
 			.info(new Info()
-				.title("Docker from Zero to Mastery - Demystified Containerization!")
+                .title("Docker to AWS with Java!")
 				.version("v1")
 				.description("Some description about your API")
 				.termsOfService("https://pub.erudio.com.br/meus-cursos")

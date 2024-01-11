@@ -9,9 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>br.com.erudio</groupId>
-  <artifactId>docker-from-zero-to-mastery</artifactId>
+  <artifactId>docker-to-aws-with-java</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-    <name>rest-with-spring-boot-and-java-erudio</name>
+  <packaging>jar</packaging>
+  
   <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -126,14 +127,14 @@
                 <groupId>org.flywaydb</groupId>
                 <artifactId>flyway-maven-plugin</artifactId>
                 <configuration>
-                    <url>jdbc:mysql://localhost:3306/docker_from_zero_to_mastery_java?useTimezone=true&amp;serverTimezone=UTC&amp;useSSL=false</url>
+                    <url>jdbc:mysql://localhost:3306/docker_to_aws_with_java?useTimezone=true&amp;serverTimezone=UTC&amp;useSSL=false</url>
                     <user>root</user>
                     <password>admin123</password>
                 </configuration>
                 <dependencies>
                     <dependency>
-                        <groupId>mysql</groupId>
-                        <artifactId>mysql-connector-java</artifactId>
+                        <groupId>com.mysql</groupId>
+                        <artifactId>mysql-connector-j</artifactId>
                         <version>${mysql.version}</version>
                         <exclusions>
                             <exclusion>
