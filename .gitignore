@@ -18,6 +18,7 @@ target/
 
 #Eclipse files
 **/.project
+**/.factorypath
 **/.classpath
 **/.settings/
 /bin/
