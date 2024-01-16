@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "aad1680b-68c6-4def-964b-44f83385d44e",
-		"name": "RESTful API with Java 18 and Spring Boot 3",
+		"name": "DockerFromZeroToMastery-SpingBootAndJava",
 		"description": "Some description about your API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "123105"
