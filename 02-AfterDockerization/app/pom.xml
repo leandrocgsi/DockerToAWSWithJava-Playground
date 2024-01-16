@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>br.com.erudio</groupId>
-  <artifactId>docker-to-aws-with-java</artifactId>
+  <artifactId>docker-from-zero-to-mastery</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   
@@ -127,7 +127,7 @@
                 <groupId>org.flywaydb</groupId>
                 <artifactId>flyway-maven-plugin</artifactId>
                 <configuration>
-                    <url>jdbc:mysql://localhost:3306/docker_to_aws_with_java?useTimezone=true&amp;serverTimezone=UTC&amp;useSSL=false</url>
+					<url>jdbc:mysql://localhost:3306/docker_from_zero_to_mastery_java?useTimezone=true&amp;serverTimezone=UTC&amp;useSSL=false</url>
                     <user>root</user>
                     <password>admin123</password>
                 </configuration>
