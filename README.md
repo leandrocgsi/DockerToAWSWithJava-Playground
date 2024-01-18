@@ -1,7 +1,11 @@
 # [Docker para Amazon AWS Implante Apps Java e .NET com Travis CI](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
 ### [Saiba obter o máximo do Docker na Amazon AWS seja em aplicações Java ou .NET](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
 
-[![Build Status](https://travis-ci.org/leandrocgsi/DockerToAWSWithJava.svg?branch=master)](https://travis-ci.org/leandrocgsi/DockerToAWSWithJava)
+![Forks](https://img.shields.io/github/forks/leandrocgsi/DockerToAWSWithJava-Playground)
+![Stars](https://img.shields.io/github/stars/leandrocgsi/DockerToAWSWithJava-Playground)
+![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/DockerToAWSWithJava-Playground)
+[![Continuous Integration with Github Actions](https://github.com/leandrocgsi/DockerToAWSWithJava-Playground/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/leandrocgsi/DockerToAWSWithJava-Playground/actions/workflows/continuous-integration.yml)
+[![Docker Hub Repo](https://img.shields.io/docker/pulls/leandrocgsi/DockerToAWSWithJava-Playground.svg)](https://hub.docker.com/repository/docker/leandrocgsi/DockerToAWSWithJava-Playground)
 
 # English Version
 
