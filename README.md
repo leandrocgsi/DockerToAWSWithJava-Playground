@@ -1,5 +1,5 @@
-# [Docker para Amazon AWS Implante Apps Java e .NET com Travis CI](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
-### [Saiba obter o máximo do Docker na Amazon AWS seja em aplicações Java ou .NET](https://www.udemy.com/course/docker-para-amazon-aws-implante-aplicacoes-java-e-net/?couponCode=GTHB_FLASH_SALE2021)
+# [Docker do 0 à Maestria: Contêineres Desmistificados + 3 BÔNUS](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
+### [Domine containeres! Aprenda Docker do 0 absoluto na teoria e na prática! Integre o Docker à apps Java, .NET, Node JS e +](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?couponCode=GTHB_FLASH_SALE2021)
 
 ![Forks](https://img.shields.io/github/forks/leandrocgsi/DockerToAWSWithJava-Playground)
 ![Stars](https://img.shields.io/github/stars/leandrocgsi/DockerToAWSWithJava-Playground)
